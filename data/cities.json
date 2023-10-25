@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-09-30T00:39:32.728Z",
+      "notes": "was fun",
+      "position": {
+        "lat": "39.94225196971828",
+        "lng": "32.854700088500984"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "l'Alcora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-23T20:04:38.406Z",
+      "notes": "wfwrefe",
+      "position": {
+        "lat": "40.042374992494096",
+        "lng": "-0.22447068743317813"
+      },
+      "id": 98443201
+    }
+  ]
+}
